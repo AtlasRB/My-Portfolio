@@ -11,7 +11,7 @@ section .links {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: 15px;
 }
 .links a {
     background-color: darkblue;
@@ -26,6 +26,9 @@ section .links {
 .links a:hover {
     background-color: rgb(0, 0, 255);
     color: rgb(255, 156, 173);
+}
+.links .download {
+    margin-top: 20px;
 }
 section .image {
     height: auto;
