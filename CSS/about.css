@@ -1,0 +1,36 @@
+/*header*/
+header {
+	display: flex;
+	justify-content: space-between;
+    align-content: flex-end;
+    padding: 0 4% 4% 4%;
+}
+.links {
+    display: flex;
+    gap: 40px;
+}
+.linkDesign {
+    color: white;
+    line-height: 60px;
+    text-decoration: none;
+    border-radius: 4px;
+}
+.linkDesign:hover {
+    color: rgb(255, 156, 173);
+}
+
+/*Main section*/
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 20%;
+}
+section .about {
+    display: flex;
+    text-align: center;
+    gap: 30px;
+}
+h2 {
+    border-bottom: solid 1px white;
+}
