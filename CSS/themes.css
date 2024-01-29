@@ -1,0 +1,22 @@
+/*Body themes*/
+body {
+    margin: 0;
+    color: white;
+    background-color: black;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/*Header themes*/
+header {
+    padding: 4%;
+    background-image: linear-gradient(darkblue, black);
+}
+
+/*Footer themes*/
+footer {
+    padding: 4%;
+    background-image: linear-gradient(black, darkblue);
+    margin-top: auto;
+}
