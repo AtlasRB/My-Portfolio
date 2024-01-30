@@ -41,10 +41,16 @@ section .icons {
     display: flex;
     flex-direction: column;
     gap: 30px;
+    margin-bottom: 20px;
 }
 section .icon {
     color: blue;
 }
 section .icon:hover {
     color: darkblue;
+}
+
+/*Media screen adjustments*/
+@media screen and (max-width: 768px) {
+
 }

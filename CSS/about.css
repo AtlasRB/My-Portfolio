@@ -34,3 +34,13 @@ section .about {
 h2 {
     border-bottom: solid 1px white;
 }
+
+/*Media screen adjustments*/
+@media screen and (max-width: 768px) {
+    section {
+        padding: 0 5%;
+    }
+    section .about {
+        flex-direction: column;
+    }
+}

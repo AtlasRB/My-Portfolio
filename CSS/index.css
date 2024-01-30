@@ -30,7 +30,27 @@ section .links {
 .links .download {
     margin-top: 20px;
 }
-section .image {
+section .imagewindow {
     height: auto;
     width: 100%;
+}
+section .imagemobile {
+    height: auto;
+    width: 40%;
+    display: none;
+}
+
+/*Media screen adjustments*/
+@media screen and (max-width: 768px) {
+    section {
+        display: flex;
+        flex-direction: column;
+        padding: 0 5%;
+    }
+    section .imagewindow {
+        display: none;
+    }
+    section .imagemobile {
+        display: flex;
+    }
 }
