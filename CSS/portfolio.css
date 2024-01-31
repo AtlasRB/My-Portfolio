@@ -29,6 +29,7 @@ section {
 section .project {
     display: flex;
     flex-direction: column;
+    margin-bottom: 60px;
 }
 section .content {
     display: flex;
@@ -83,6 +84,10 @@ header .drop:hover {
 
     section {
         padding: 0 5%;
+    }
+    section .content {
+        flex-direction: column;
+        gap: 20px;
     }
 }
 @media screen and (min-width: 768px) {
