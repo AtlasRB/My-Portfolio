@@ -19,6 +19,11 @@ header {
     color: rgb(255, 156, 173);
 }
 
+/*Main content*/
+section .title{
+    color: red;
+}
+
 /*Mobile dropdown*/
 header .dropdown {
     display: none;
