@@ -8,13 +8,14 @@ const portfolioTarget = document.querySelector('.items')
 fetch('JavaScript/portfolio.json').then(function (response) {
     return response.json()
 }).then(function (data) {
-    console.log(data)
     data.Portfolio.forEach(function (item) {
-        portfolioTarget.innerHTML += `<div>
+        portfolioTarget.innerHTML += `<div class="project">
             <h3 class="title">${item.name}</h3>
-            <p>${item.img}</p>
-            <p>${item.description}</p>
-            <p>${item.link}</p>
+            <div class = "content">
+                <img src="${item.img}" class="imagewindow" alt="Placeholder text"/>
+                <p>${item.description}</p>
+                <a href="${item.link} class="" target="_blank">GitHub ${item.name}</a>
+            </div>
          </div>`
     })
 }) 

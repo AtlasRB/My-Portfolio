@@ -82,6 +82,10 @@ header .drop:hover {
     header .drop {
         display: block;
     }
+
+    section {
+        padding: 0 5%;
+    }
 }
 @media screen and (min-width: 768px) {
     header .dropdown.visible {
