@@ -41,12 +41,32 @@ section .imagewindow {
     width: 100px;
     height: 80px;
 }
+section .clicker {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 15px;
+}
+section .clicker p {
+    margin: 0;
+}
 a {
     color: white;
     text-decoration: none;
 }
 a:hover {
     color:rgb(255, 156, 173);
+}
+
+/*More detail dropwdown*/
+.more {
+    display: none;
+}
+.more.visible {
+    display: flex;
+}
+.moreDrop:hover {
+    color: red;
 }
 
 /*Mobile dropdown*/

@@ -4,13 +4,15 @@
             "name": "Project one",
             "img": "Images/jsonplacefiller1.jpg",
             "description": "Description 1",
-            "link": "https://github.com/"
+            "link": "https://github.com/",
+            "largeDescription": "More project detail will go here"
         },
         {
             "name": "Project two",
             "img": "Images/jsonplacefiller2.jpg",
             "description": "Description 2",
-            "link": "https://github.com/"
+            "link": "https://github.com/",
+            "largeDescription": "More project detail will go here"
         }
     ]
 }
