@@ -36,7 +36,7 @@ section .content {
     display: flex;
     align-items: center;
     gap: 60px;
-    background-image: radial-gradient(darkblue, black 80%);    
+    background-image: radial-gradient(darkblue, #3f54f7 55%);    
 }
 section .imagewindow {
     width: 100px;
