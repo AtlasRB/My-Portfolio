@@ -30,8 +30,7 @@ section {
 }
 h1 {
     font-size: 50px;
-    margin: 30px;
-    justify-content: center;
+    margin: 30px 40%;
 }
 h3 {
     font-size: 24px;
@@ -48,7 +47,7 @@ section .content {
     display: flex;
     align-items: center;
     gap: 60px;
-    background-image: radial-gradient(darkblue, #3f54f7 55%);    
+    background-image: radial-gradient(darkblue, black 90%);    
 }
 section .imagewindow {
     width: 100px;
