@@ -1,7 +1,7 @@
 /*Main section*/
 section {
     display: grid;
-    grid-template-columns: 3fr 2fr;
+    grid-template-columns: 2fr 1fr;
     grid-gap: 80px;
     margin: 10px;
     padding: 0 20%;
@@ -13,32 +13,27 @@ section .links {
     align-items: center;
     gap: 15px;
 }
-.links a {
-    background-color: darkblue;
-    color: white;
-    height: 30px;
-    width: 100%;
-    line-height: 30px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 4px;
-    transition: all 200ms;
-}
-.links a:hover {
-    background-color: rgb(0, 0, 255);
-    color: rgb(255, 156, 173);
-}
-.links .download {
-    margin-top: 20px;
+section .navigate {
+    display: flex;
+    gap: 15px;
 }
 section .imagewindow {
     height: auto;
     width: 100%;
+    margin-top: 60%;
 }
 section .imagemobile {
     height: auto;
     width: 40%;
     display: none;
+}
+h1 {
+    font-size: 60px;
+}
+p {
+    font-size: 20px;
+    margin: 0px;
+    margin-bottom: 20px;
 }
 
 /*Media screen adjustments*/

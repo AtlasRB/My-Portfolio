@@ -28,6 +28,12 @@ section {
     align-items: center;
     gap: 30px;
 }
+h1 {
+    font-size: 50px;
+}
+p {
+    font-size: 18px;
+}
 section .layout {
     display: flex;
     flex-direction: column;
@@ -45,8 +51,8 @@ section .icons {
     margin-bottom: 20px;
 }
 section .icon {
-    color: blue;
-    transition: all 200ms;
+    color: white;
+    transition: all 300ms;
 }
 section .icon:hover {
     color: darkblue;
@@ -65,7 +71,7 @@ header .drop {
     display: none;
     margin: 20px 0;
     border-radius: 4px;
-    transition: all 200ms;
+    transition: all 300ms;
 }
 header .drop:hover {
     color: red;
