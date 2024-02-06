@@ -1,0 +1,134 @@
+/*header*/
+header {
+	display: flex;
+	justify-content: space-between;
+    align-items: center;
+    padding: 0 4% 4% 4%;
+}
+.links {
+    display: flex;
+    gap: 40px;
+}
+.linkDesign {
+    color: white;
+    margin: 20px 0;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: all 200ms;
+}
+.linkDesign:hover {
+    color: rgb(255, 156, 173);
+}
+
+/*Main content*/
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    align-content: center;
+    padding: 0 20%;
+}
+h1 {
+    font-size: 50px;
+    margin: 30px 40%;
+}
+h3 {
+    font-size: 24px;
+}
+.text {
+    font-size: 18px;
+}
+section .project {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+section .content {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    background-image: radial-gradient(at left,darkblue 20%, black 60%);    
+}
+section .imagewindow {
+    width: 100px;
+    height: 80px;
+}
+section .clicker {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 15px;
+}
+section .clicker p {
+    margin: 0;
+}
+a {
+    color: white;
+    text-decoration: none;
+    transition: all 200ms;
+}
+a:hover {
+    color:rgb(255, 156, 173);
+}
+
+/*More detail dropwdown*/
+.more {
+    display: none;
+}
+.more.visible {
+    display: flex;
+}
+.moreDrop {
+    transition: all 200ms;
+}
+.moreDrop:hover {
+    color: red;
+}
+
+/*Mobile dropdown*/
+header .dropdown {
+    display: none;
+}
+header .dropdown.visible {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-row: auto auto;
+}
+header .drop {
+    display: none;
+    margin: 20px 0;
+    border-radius: 4px;
+    transition: all 200ms;
+}
+header .drop:hover {
+    color: red;
+}
+
+/*Media screen adjustments*/
+@media screen and (max-width: 768px) {
+    header {
+        justify-content: start;
+        align-items: start;
+        padding: 0 4% 4% 4%;
+        gap: 8%;
+    }
+    header .links {
+        display: none;
+    }
+    header .drop {
+        display: block;
+    }
+
+    section {
+        padding: 0 5%;
+    }
+    section .content {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
+@media screen and (min-width: 768px) {
+    header .dropdown.visible {
+        display: none;
+    }
+}
