@@ -1,7 +1,7 @@
 /*header*/
 header {
 	display: flex;
-	justify-content: space-between;
+	justify-content: center;
     align-items: center;
     padding: 0 4% 4% 4%;
 }
@@ -16,6 +16,7 @@ header {
     border-radius: 4px;
     border-bottom: 1.5px solid transparent;
     transition: all 300ms;
+    font-size: 20px;
 }
 .linkDesign:hover {
     border-bottom: 1.5px solid white;
