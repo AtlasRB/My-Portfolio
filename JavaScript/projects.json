@@ -5,21 +5,24 @@
             "img": "Images/jsonplacefiller1.jpg",
             "description": "Description 1",
             "link": "https://github.com/",
-            "largeDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, exercitationem, magnam laborum voluptates officiis harum hic, doloremque eligendi reiciendis ducimus fugiat? Laborum tempore laudantium, esse sint dolorem quasi ipsam maxime?"
-        },
+            "livelink": "https://www.google.com/",
+            "largeDescription": "1Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, exercitationem, magnam laborum voluptates officiis harum hic, doloremque eligendi reiciendis ducimus fugiat? Laborum tempore laudantium, esse sint dolorem quasi ipsam maxime?"
+         },
         {
             "name": "Project two",
             "img": "Images/jsonplacefiller2.jpg",
-            "description": "Description 2",
+            "description": "Description 1",
             "link": "https://github.com/",
-            "largeDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, exercitationem, magnam laborum voluptates officiis harum hic, doloremque eligendi reiciendis ducimus fugiat? Laborum tempore laudantium, esse sint dolorem quasi ipsam maxime?"
+            "livelink": "https://www.google.com/",
+            "largeDescription": "2Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, exercitationem, magnam laborum voluptates officiis harum hic, doloremque eligendi reiciendis ducimus fugiat? Laborum tempore laudantium, esse sint dolorem quasi ipsam maxime?"
         },
         {
             "name": "Project three",
             "img": "Images/jsonplacefiller1.jpg",
-            "description": "Description 3",
+            "description": "Description 1",
             "link": "https://github.com/",
-            "largeDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, exercitationem, magnam laborum voluptates officiis harum hic, doloremque eligendi reiciendis ducimus fugiat? Laborum tempore laudantium, esse sint dolorem quasi ipsam maxime?"
+            "livelink": "https://www.google.com/",
+            "largeDescription": "3Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, exercitationem, magnam laborum voluptates officiis harum hic, doloremque eligendi reiciendis ducimus fugiat? Laborum tempore laudantium, esse sint dolorem quasi ipsam maxime?"
         }
     ]
 }

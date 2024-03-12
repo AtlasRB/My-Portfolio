@@ -17,6 +17,7 @@ fetch('JavaScript/websites.json').then(function (response) {
                 <p>${item.description}</p>
                 <div class="clicker">
                     <a href="${item.link} class="" target="_blank">GitHub ${item.name}</a>
+                    <a href="${item.livelink} class="" target="_blank">Live Site ${item.name}</a>
                     <p>More details <i data-opens=".project${counter}" class="fa-solid fa-caret-down moreDrop"></i></p>
                 </div>
             </div>

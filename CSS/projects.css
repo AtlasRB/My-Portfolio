@@ -46,7 +46,7 @@ section {
 }
 h1 {
     font-size: 50px;
-    margin: 30px 40%;
+    margin: 30px 30%;
 }
 h3 {
     font-size: 24px;
@@ -63,11 +63,11 @@ section .content {
     display: flex;
     align-items: center;
     gap: 60px;
-    background-image: radial-gradient(at left,darkblue 20%, black 60%);    
+    background-image: radial-gradient(at left,darkblue 40%, black 70%);    
 }
 section .imagewindow {
-    width: 100px;
-    height: 80px;
+    width: 150px;
+    height: 120px;
 }
 section .clicker {
     display: flex;
