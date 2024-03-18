@@ -49,7 +49,10 @@ section .content {
     display: flex;
     align-items: center;
     gap: 60px;
-    background-image: radial-gradient(at left,darkblue 40%, black 70%);    
+    background-image: radial-gradient(darkblue 40%, black 70%);    
+}
+.description {
+    max-width: 40%;
 }
 section .imagewindow {
     width: 150px;

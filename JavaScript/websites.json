@@ -1,28 +1,20 @@
 {
     "Websites": [
         {
-            "name": "Website one",
-            "img": "Images/jsonplacefiller1.jpg",
-            "description": "Description 1",
-            "link": "https://github.com/",
-            "livelink": "https://www.google.com/",
-            "largeDescription": "1Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, exercitationem, magnam laborum voluptates officiis harum hic, doloremque eligendi reiciendis ducimus fugiat? Laborum tempore laudantium, esse sint dolorem quasi ipsam maxime?"
-        },
-        {
-            "name": "Website two",
+            "name": "Jobsearch site",
             "img": "Images/jsonplacefiller2.jpg",
-            "description": "Description 2",
+            "description": "A site created in a team of five with a pre given api to view different jobs on the site.",
             "link": "https://github.com/",
-            "livelink": "https://www.google.com/",
-            "largeDescription": "2Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, exercitationem, magnam laborum voluptates officiis harum hic, doloremque eligendi reiciendis ducimus fugiat? Laborum tempore laudantium, esse sint dolorem quasi ipsam maxime?"
+            "livelink": "https://24-frolickingfrogs-jobsearch.dev.io-academy.uk/",
+            "largeDescription": "The fist group project with IO academy was a good opportunity to learn about programming in a group with things such as pair programming and using git in a group. The site was built using a react frontend and a pregiven api for use in the backend."
         },
         {
-            "name": "Website three",
+            "name": "Blog site",
             "img": "Images/jsonplacefiller1.jpg",
-            "description": "Description 3",
+            "description": "A site created in a team of five to share blog posts, features include a user registration / login as well as liking and disliking posts.",
             "link": "https://github.com/",
-            "livelink": "https://www.google.com/",
-            "largeDescription": "3Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, exercitationem, magnam laborum voluptates officiis harum hic, doloremque eligendi reiciendis ducimus fugiat? Laborum tempore laudantium, esse sint dolorem quasi ipsam maxime?"
-        }
+            "livelink": "https://24-frolickingfrogs-blog.dev.io-academy.uk/",
+            "largeDescription": "During the second team project with IO Academy we created a blogging site to work on backend coding. This backend was coded in php with a basic html and tailwind frontend."
+         }
     ]
 }
