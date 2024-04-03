@@ -5,7 +5,7 @@ function toggleDropdown() {
 
 const websitesTarget = document.querySelector('.items')
 
-fetch('JavaScript/websites.json').then(function (response) {
+fetch('JavaScript/groupProjects.json').then(function (response) {
     return response.json()
 }).then(function (data) {
     let counter = 1
