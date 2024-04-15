@@ -1,0 +1,11 @@
+{
+    "Portfolio": [
+        {
+            "name": "Website one",
+            "img": "Images/jsonplacefiller1.jpg",
+            "description": "Description 1",
+            "link": "https://github.com/",
+            "largeDescription": "1Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, exercitationem, magnam laborum voluptates officiis harum hic, doloremque eligendi reiciendis ducimus fugiat? Laborum tempore laudantium, esse sint dolorem quasi ipsam maxime?"
+        }
+    ]
+}
