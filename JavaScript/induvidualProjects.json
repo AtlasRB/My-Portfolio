@@ -1,28 +1,20 @@
 {
     "Portfolio": [
         {
-            "name": "Website one",
+            "name": "Card Collection",
             "img": "Images/jsonplacefiller1.jpg",
-            "description": "Description 1",
-            "link": "https://github.com/",
-            "livelink": "https://www.google.com/",
-            "largeDescription": "1Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, exercitationem, magnam laborum voluptates officiis harum hic, doloremque eligendi reiciendis ducimus fugiat? Laborum tempore laudantium, esse sint dolorem quasi ipsam maxime?"
+            "description": "A react frontend displaying gen one pokemon cards with multiple filter types.",
+            "link": "https://github.com/AtlasRB/Card-Collections",
+            "livelink": "https://cardcollection.2024-connory.dev.io-academy.uk",
+            "largeDescription": "Built using a react frontend to fetch a database containing generation one pokemon along with additional information about each. This data is then displayed in a table format styled using tailwind CSS."
         },
         {
-            "name": "Website two",
+            "name": "Card Collection API",
             "img": "Images/jsonplacefiller2.jpg",
-            "description": "Description 2",
-            "link": "https://github.com/",
-            "livelink": "https://www.google.com/",
-            "largeDescription": "2Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, exercitationem, magnam laborum voluptates officiis harum hic, doloremque eligendi reiciendis ducimus fugiat? Laborum tempore laudantium, esse sint dolorem quasi ipsam maxime?"
-        },
-        {
-            "name": "Website three",
-            "img": "Images/jsonplacefiller1.jpg",
-            "description": "Description 3",
-            "link": "https://github.com/",
-            "livelink": "https://www.google.com/",
-            "largeDescription": "3Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, exercitationem, magnam laborum voluptates officiis harum hic, doloremque eligendi reiciendis ducimus fugiat? Laborum tempore laudantium, esse sint dolorem quasi ipsam maxime?"
+            "description": "The backend API for Card Collection project built using Laravel",
+            "link": "https://github.com/AtlasRB/Card-Collections-API",
+            "livelink": "https://cardcollector.2024-connory.dev.io-academy.uk/api/card",
+            "largeDescription": "This project shows use of multiple methods such as GET, POST, PUT and DELETE. Testing is also used in this project."
         }
     ]
 }

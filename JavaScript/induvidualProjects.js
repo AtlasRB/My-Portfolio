@@ -12,12 +12,13 @@ fetch('JavaScript/induvidualProjects.json').then(function (response) {
     data.Portfolio.forEach(function (item) {
         portfolioTarget.innerHTML += `<div class="project">
             <h3 class="title">${item.name}</h3>
+
             <div class = "content text">
                 <img src="${item.img}" class="imagewindow" alt="Placeholder text"/>
                 <p>${item.description}</p>
                 <div class="clicker">
-                    <a href="${item.link} target="_blank"">GitHub ${item.name}</a>
-                    <a href="${item.livelink} target="_blank"">Live Site ${item.name}</a>
+                    <a href="${item.link}" target="_blank">GitHub ${item.name}</a>
+                    <a href="${item.livelink}" target="_blank">Live Site ${item.name}</a>
                     <p">More details <i data-opens=".project${counter}" class="fa-solid fa-caret-down moreDrop"></i></p>
                 </div>
             </div>
@@ -38,4 +39,3 @@ fetch('JavaScript/induvidualProjects.json').then(function (response) {
 
 //Call functions
 document.querySelector('.drop').addEventListener('click', toggleDropdown)
-

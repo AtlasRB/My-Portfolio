@@ -3,8 +3,8 @@
         {
             "name": "Training Log",
             "img": "Images/jsonplacefiller1.jpg",
-            "description": "A python application made to keep a log of training workouts.",
-            "link": "https://github.com/",
+            "description": "A python application made to keep a log of training workouts. Example data will be shown in December 2023.",
+            "link": "https://github.com/AtlasRB/trainingLog",
             "largeDescription": "Made using tkinter gui and its calander import. Calander.py takes data from dates.py, which is the file that contains all the workout data, the displays the data in a calander for each date that data is available. If data is available then the corresponding date is also marked as green."
         }
     ]
