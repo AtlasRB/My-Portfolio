@@ -5,7 +5,7 @@ function toggleDropdown() {
 
 const portfolioTarget = document.querySelector('.items')
 
-fetch('JavaScript/induvidualProjects.json').then(function (response) {
+fetch('JavaScript/individualProjects.json').then(function (response) {
     return response.json()
 }).then(function (data) {
     let counter = 1
