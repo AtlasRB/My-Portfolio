@@ -54,6 +54,13 @@ section .icon:hover {
     color: rgb(0, 60, 255);
     transform: scale(1.10);
 }
+#emailLink {
+    color: aqua;
+    transition: 300ms;
+}
+#emailLink:hover {
+    color: blueviolet;
+}
 
 /*Copy success*/
 .copy {
