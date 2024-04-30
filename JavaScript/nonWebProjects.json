@@ -6,6 +6,13 @@
             "description": "A python application made to keep a log of training workouts. Example data will be shown in December 2023.",
             "link": "https://github.com/AtlasRB/trainingLog",
             "largeDescription": "Made using tkinter gui and its calander import. Calander.py takes data from dates.py, which is the file that contains all the workout data, the displays the data in a calander for each date that data is available. If data is available then the corresponding date is also marked as green."
+        },
+        {
+            "name": "Python Daily.Dev Problems",
+            "img": "Images/jsonplacefiller1.jpg",
+            "description": "Completing code problems using the pyhton language from the website: <a href='https://daily.dev/blog/fun-coding-problems-from-easy-to-hard'>--daily.dev website link--</a>",
+            "link": "https://github.com/AtlasRB/pythonDailyDevProblems",
+            "largeDescription": "This website contains multiple projects of various difficulties. This is a project for my own personal practice where I will start from the easiest and work my way through. Some problem descriptions on the site includes example code, this will be ignored when working on these problems."
         }
     ]
 }
