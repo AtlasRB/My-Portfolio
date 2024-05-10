@@ -15,6 +15,14 @@
             "link": "https://github.com/iO-Academy/24-jan-frolicking-frogs-blogging-site",
             "livelink": "https://24-frolickingfrogs-blog.dev.io-academy.uk/",
             "largeDescription": "During the second team project with IO Academy we created a blogging site to work on backend coding. This backend was coded in php with a basic html and tailwind frontend."
+         },
+         {
+            "name": "Hotel booking site",
+            "img": "Images/jsonplacefiller1.jpg",
+            "description": "A site created in a team of five designed for hospital staff to use when managing rooms in a hotel.",
+            "link": "https://github.com/iO-Academy/24-jan-frolicking-frogs-hotel-api",
+            "livelink": "https://24-frolickingfrogs-hotel-fe.dev.io-academy.uk",
+            "largeDescription": "For this third group project we had a pre given react based front end. The project was focused on using laravel to create our own database to create our backend for the website."
          }
     ]
 }
