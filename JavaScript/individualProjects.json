@@ -2,7 +2,7 @@
     "Portfolio": [
         {
             "name": "Card Collection",
-            "img": "Images/jsonplacefiller1.jpg",
+            "img": "Images/individualCardCollection.PNG",
             "description": "A react frontend displaying gen one pokemon cards with multiple filter types.",
             "link": "https://github.com/AtlasRB/Card-Collections",
             "livelink": "https://cardcollection.2024-connory.dev.io-academy.uk",
@@ -10,7 +10,7 @@
         },
         {
             "name": "Card Collection API",
-            "img": "Images/jsonplacefiller2.jpg",
+            "img": "Images/individualCardCollectionAPI.PNG",
             "description": "The backend API for Card Collection project built using Laravel",
             "link": "https://github.com/AtlasRB/Card-Collections-API",
             "livelink": "https://cardcollector.2024-connory.dev.io-academy.uk/api/card",

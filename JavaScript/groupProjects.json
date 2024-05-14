@@ -2,7 +2,7 @@
     "Websites": [
         {
             "name": "Jobsearch site",
-            "img": "Images/jsonplacefiller2.jpg",
+            "img": "Images/groupJobsearch.PNG",
             "description": "A site created in a team of five with a pre given api to view different jobs on the site.",
             "link": "https://github.com/iO-Academy/24-jan-frolicking-frogs-jobsearch",
             "livelink": "https://24-frolickingfrogs-jobsearch.dev.io-academy.uk/",
@@ -10,7 +10,7 @@
         },
         {
             "name": "Blog site",
-            "img": "Images/jsonplacefiller1.jpg",
+            "img": "Images/groupBlog.PNG",
             "description": "A site created in a team of five to share blog posts, features include a user registration / login as well as liking and disliking posts.",
             "link": "https://github.com/iO-Academy/24-jan-frolicking-frogs-blogging-site",
             "livelink": "https://24-frolickingfrogs-blog.dev.io-academy.uk/",
@@ -18,7 +18,7 @@
          },
          {
             "name": "Hotel booking site",
-            "img": "Images/jsonplacefiller1.jpg",
+            "img": "Images/groupHotel.PNG",
             "description": "A site created in a team of five designed for hospital staff to use when managing rooms in a hotel.",
             "link": "https://github.com/iO-Academy/24-jan-frolicking-frogs-hotel-api",
             "livelink": "https://24-frolickingfrogs-hotel-fe.dev.io-academy.uk",
