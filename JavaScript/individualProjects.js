@@ -15,7 +15,7 @@ fetch('JavaScript/individualProjects.json').then(function (response) {
 
             <div class = "content text">
                 <img src="${item.img}" class="imagewindow" alt="Placeholder text"/>
-                <p>${item.description}</p>
+                <p class="description">${item.description}</p>
                 <div class="clicker">
                     <a href="${item.link}" target="_blank" class="linkDesign links">GitHub ${item.name}</a>
                     <a href="${item.livelink}" target="_blank" class="linkDesign links">Live Site ${item.name}</a>

@@ -48,6 +48,10 @@ section .container {
     width: auto;
     height: 250px;
 }
+#reverse {
+    flex-direction: row-reverse;
+}
+
 h1 {
     font-size: 50px;
 }
@@ -82,9 +86,6 @@ header .drop:hover {
     section {
         padding: 0 10%;
     }
-    .container img {
-        height: 175px;
-    }
 }
 @media screen and (max-width: 768px) {
     section {
@@ -106,8 +107,11 @@ header .drop:hover {
     header .drop {
         display: block;
     }
-    .container img {
-        height: 100px;
+    .container {
+        flex-direction: column;
+    }
+    #reverse {
+        flex-direction: column;
     }
 }
 @media screen and (min-width: 768px) {
