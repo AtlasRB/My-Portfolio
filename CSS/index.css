@@ -36,7 +36,7 @@ p {
         padding: 0 5%;
     }
     section .navigate {
-        flex-direction: column;
+        display: grid;
     }
     h1 {
         font-size: 40px;
