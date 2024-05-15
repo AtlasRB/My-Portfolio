@@ -14,7 +14,7 @@ fetch('JavaScript/nonWebProjects.json').then(function (response) {
             <h3 class="title">${item.name}</h3>
 
             <div class = "content text">
-                <img src="${item.img}" class="imagewindow" alt="Placeholder text"/>
+                <img src="${item.img}" class="imagewindow" alt="An image showing my ${item.name} output"/>
                 <p>${item.description}</p>
                 <div class="clicker">
                     <a href="${item.link}" target="_blank" class="linkDesign links">GitHub ${item.name}</a>
