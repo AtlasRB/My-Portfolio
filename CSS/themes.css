@@ -8,6 +8,12 @@ body {
     flex-direction: column;
     font-family: 'Gowun Batang', sans-serif;
 }
+h1 {
+    font-size: 50px;
+}
+p {
+    font-size: 18px;
+}
 
 /*Header themes*/
 header {

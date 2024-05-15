@@ -29,7 +29,6 @@ section {
     padding: 0 20%;
 }
 h1 {
-    font-size: 50px;
     margin: 30px 0%;
     display: flex;
     justify-content: center;
@@ -154,6 +153,10 @@ header .drop:hover {
     }
     .description {
         max-width: 100%;
+    }
+    section .imagewindow {
+        width: 50%;
+        height: 50%;
     }
 }
 @media screen and (min-width: 768px) {

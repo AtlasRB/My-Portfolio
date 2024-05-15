@@ -52,12 +52,6 @@ section .container {
     flex-direction: row-reverse;
 }
 
-h1 {
-    font-size: 50px;
-}
-p {
-    font-size: 18px;
-}
 h2 {
     border-bottom: solid 1px white;
 }

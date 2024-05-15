@@ -53,10 +53,6 @@ section .options {
     transform: scale(1.10);
     box-shadow: 0 0 70px 0 darkblue;
 }
-h1 {
-    font-size: 50px;
-}
-
 
 /*Mobile dropdown*/
 header .dropdown {

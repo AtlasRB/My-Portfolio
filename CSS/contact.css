@@ -30,12 +30,6 @@ section {
     align-items: center;
     gap: 30px;
 }
-h1 {
-    font-size: 50px;
-}
-p {
-    font-size: 18px;
-}
 section .layout {
     display: flex;
     flex-direction: column;
