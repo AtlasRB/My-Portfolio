@@ -47,6 +47,7 @@ img {
     align-self: center;
     width: 10%;
     height: auto;
+    border-radius: 10px;
 }
 #reverse {
     flex-direction: row-reverse;
