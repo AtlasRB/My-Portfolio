@@ -3,16 +3,16 @@
         {
             "name": "Training Log",
             "img": "Images/nonWebTraining.PNG",
-            "description": "A python application made to keep a log of training workouts. Example data will be shown in December 2023.",
+            "description": "A python application made to keep a log of training workouts. Example data is shown in December 2023.",
             "link": "https://github.com/AtlasRB/trainingLog",
-            "largeDescription": "Made using tkinter GUI and its calendar import. Calendar.py takes data from dates.py, which is the file that contains all the workout data, the displays the data in a calendar for each date that data is available. If data is available then the corresponding date is also marked as green."
+            "largeDescription": "Made using tkinter GUI and its calendar import. Dates.py is the file containing all of the data. This is then imported into Calendar.py where it is displayed in a calendar for each date where data is available. I data is available the the corresponding date is marked green and displays the information when clicked."
         },
         {
             "name": "Python Daily.Dev Problems",
             "img": "Images/nonWebDailyDev.PNG",
-            "description": "Completing code problems using the python language from the website: <br><a href='https://daily.dev/blog/fun-coding-problems-from-easy-to-hard' target='_blank' id='dailyDev'>--daily.dev website link--</a>",
+            "description": "Completing code problems using the Python language from the website: <br><a href='https://daily.dev/blog/fun-coding-problems-from-easy-to-hard' target='_blank' id='dailyDev'>--daily.dev website link--</a>",
             "link": "https://github.com/AtlasRB/pythonDailyDevProblems",
-            "largeDescription": "This website contains multiple projects of various difficulties. This is a project for my own personal practice where I will start from the easiest and work my way through. Some problem descriptions on the site includes example code, this will be ignored when working on these problems."
+            "largeDescription": "This website contains multiple problems of various difficulties. This is a project for my own personal practice where I will start from the easiest and work my way through. Some problem descriptions on the site includes example code, this will be ignored when working on these problems."
         }
     ]
 }

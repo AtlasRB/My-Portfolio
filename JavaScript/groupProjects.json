@@ -6,7 +6,7 @@
             "description": "A site created in a team of five with a pre given API to view different jobs on the site.",
             "link": "https://github.com/iO-Academy/24-jan-frolicking-frogs-jobsearch",
             "livelink": "https://24-frolickingfrogs-jobsearch.dev.io-academy.uk/",
-            "largeDescription": "The first group project with IO was a good opportunity to learn about programming in a group with things such as pair programming and using git in a group. The site was built using a react frontend and a pre-given API for use in the backend."
+            "largeDescription": "The first group project with IO was a good opportunity to learn about programming in a group with things such as pair programming and using Git in a group. The site was built using a React frontend and a pre-given API for use in the backend."
         },
         {
             "name": "Blog site",
@@ -14,7 +14,7 @@
             "description": "A site created in a team of five to share blog posts, features include a user registration / login as well as liking and disliking posts.",
             "link": "https://github.com/iO-Academy/24-jan-frolicking-frogs-blogging-site",
             "livelink": "https://24-frolickingfrogs-blog.dev.io-academy.uk/",
-            "largeDescription": "During the second team project with IO we created a blogging site to work on backend coding. This backend was coded in PHP with a basic HTML and tailwind frontend."
+            "largeDescription": "During the second team project with IO we created a blogging site to work on backend coding. This backend was coded in PHP with a basic HTML and styled using Tailwind."
          },
          {
             "name": "Hotel booking site",
@@ -22,7 +22,7 @@
             "description": "A site created in a team of five designed for hospital staff to use when managing rooms in a hotel.",
             "link": "https://github.com/iO-Academy/24-jan-frolicking-frogs-hotel-api",
             "livelink": "https://24-frolickingfrogs-hotel-fe.dev.io-academy.uk",
-            "largeDescription": "For this third group project we had a pre given react based front end. The project was focused on using laravel to create our own database and backend for the website."
+            "largeDescription": "For this third group project we had a pre given React based frontend. The project was focused on using Laravel to create our own database and backend for the website."
          }
     ]
 }

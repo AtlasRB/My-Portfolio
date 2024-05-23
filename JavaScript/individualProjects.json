@@ -3,10 +3,10 @@
         {
             "name": "Card Collection",
             "img": "Images/individualCardCollection.PNG",
-            "description": "A react frontend displaying gen one pokemon cards with multiple filter types.",
+            "description": "A React frontend displaying gen one pokemon cards with multiple filter types.",
             "link": "https://github.com/AtlasRB/Card-Collections",
             "livelink": "https://cardcollection.2024-connory.dev.io-academy.uk",
-            "largeDescription": "Built using a react frontend to fetch a database containing generation one pokemon along with additional information about each. This data is then displayed in a table format styled using tailwind CSS."
+            "largeDescription": "Built using a React frontend to fetch a database containing generation one pokemon along with additional information about each. This data is then displayed in a table format styled using Tailwind CSS."
         },
         {
             "name": "Card Collection API",

@@ -56,6 +56,13 @@ img {
 h2 {
     border-bottom: solid 1px white;
 }
+#dailyDev {
+    color: white;
+    text-decoration: none;
+}
+#dailyDev:hover {
+    text-decoration: underline;
+}
 
 /*Mobile dropdown*/
 header .dropdown {
