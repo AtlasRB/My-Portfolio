@@ -1,6 +1,14 @@
 {
     "Portfolio": [
         {
+            "name": "JavaScript DailyDev Problems",
+            "img": "Images/jsDailyDev.PNG",
+            "description": "A React multipage frontend to showcase my JavaScript coding abilities by completing the code problems on the <a href='https://daily.dev/blog/fun-coding-problems-from-easy-to-hard' target='_blank' id='dailyDev'>DailyDev</a> website.",
+            "link": "https://github.com/AtlasRB/javaScriptDailyDevProblems",
+            "livelink": "https://jsdailydev.2024-connory.dev.io-academy.uk",
+            "largeDescription": "Built using a multipage React frontend, this project is intended to work through all of DailyDev code problems in the JavaScript language. The home layout is designed to be horizontally scrolled to view different problems."
+        },
+        {
             "name": "Card Collection",
             "img": "Images/individualCardCollection.PNG",
             "description": "A React frontend displaying gen one pokemon cards with multiple filter types.",
