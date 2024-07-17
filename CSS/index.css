@@ -5,7 +5,7 @@ section {
     grid-gap: 80px;
     padding: 0 20%;
 }
-section .links {
+section .nav {
     display: flex;
     flex-direction: column;
     justify-content: center;
