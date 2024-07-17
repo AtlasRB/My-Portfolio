@@ -68,20 +68,31 @@ section .options {
 /*Mobile dropdown*/
 header .dropdown {
     display: none;
+    height: 100vh;
+    width: 100vw;
+    transition: all 300ms;
 }
 header .dropdown.visible {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-row: auto auto;
+    display: flex;
+    flex-direction: column;
 }
 header .drop {
     display: none;
     margin: 20px 0;
     border-radius: 4px;
-    transition: all 200ms;
+    transition: all 300ms;
 }
-header .drop:hover {
-    color: red;
+.mobileLinkDesign {
+    color: white;
+    height: 20%;
+    border-radius: 280px;
+    background-image: radial-gradient(darkblue, black 70%);
+    margin: 20px 0;
+    text-decoration: none;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /*Media screen adjustments*/
@@ -101,8 +112,9 @@ header .drop:hover {
     }
 
     header {
-        justify-content: start;
-        align-items: start;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
         padding: 0 4% 4% 4%;
         gap: 8%;
     }
