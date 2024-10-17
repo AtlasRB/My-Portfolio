@@ -9,7 +9,7 @@ fetch('JavaScript/groupProjects.json').then(function (response) {
     return response.json()
 }).then(function (data) {
     let counter = 1
-    data.Websites.forEach(function (item) {
+    data.Websites.reverse().forEach(function (item) {
         websitesTarget.innerHTML += `<div class="project">
             <h3 class="title">${item.name}</h3>
             

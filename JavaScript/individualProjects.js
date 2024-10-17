@@ -9,7 +9,7 @@ fetch('JavaScript/individualProjects.json').then(function (response) {
     return response.json()
 }).then(function (data) {
     let counter = 1
-    data.Portfolio.forEach(function (item) {
+    data.Portfolio.reverse().forEach(function (item) {
         portfolioTarget.innerHTML += `<div class="project">
             <h3 class="title">${item.name}</h3>
 
