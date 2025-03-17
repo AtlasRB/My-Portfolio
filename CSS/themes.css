@@ -51,6 +51,11 @@ footer {
 }
 
 /*Media screen adjustments*/
+@media screen and (max-width: 1440px) {
+    .button {
+        width: 113px;
+    }
+}
 @media screen and (max-width: 768px) {
     h1 {
         font-size: 40px;

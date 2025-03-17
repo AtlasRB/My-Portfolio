@@ -1,11 +1,12 @@
 /*Main section*/
 section {
-    display: grid;
-    grid-template-columns: 2fr 1fr;
+    /*display: grid;*/
+    /*grid-template-columns: 2fr 1fr;*/
+    display: flex;
     grid-gap: 80px;
-    padding: 0 20%;
+    padding: 0 30%;
 }
-section .nav {
+.nav {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -18,6 +19,9 @@ section .navigate {
     display: flex;
     gap: 15px;
 }
+.image {
+    align-content: center;
+}
 h1 {
     font-size: 60px;
 }
@@ -26,6 +30,11 @@ p {
     margin: 0px;
     margin-bottom: 20px;
     text-align: center;
+}
+img {
+    width: 20vw;
+    height: auto;
+    border-radius: 4px 24px;
 }
 
 /*Media screen adjustments*/
@@ -43,5 +52,8 @@ p {
     }
     p{
         font-size: 16px;
+    }
+    img {
+        display: none;
     }
 }
