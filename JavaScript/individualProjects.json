@@ -19,7 +19,7 @@
         {
             "name": "Card Collection API",
             "img": "Images/individualCardCollectionAPI.PNG",
-            "description": "The backend API for Card Collection project built using Laravel",
+            "description": "The backend API for Card Collection project built the PHP Laravel framework.",
             "link": "https://github.com/AtlasRB/Card-Collections-API",
             "livelink": "https://cardcollector.2024-connory.dev.io-academy.uk/api/card",
             "largeDescription": "This project shows use of multiple methods such as GET, POST, PUT and DELETE. Testing is also used in this project."
@@ -27,10 +27,10 @@
         {
             "name": "Skylander Sypros Adventure Collection Site",
             "img": "Images/skylanderLaravel.PNG",
-            "description": "A site built using Laravel that is used to track collected Skylander Spyros Adventure figures.",
+            "description": "A site built using the PHP Laravel framework, the site is used to track collected Skylander Spyros Adventure figures.",
             "link": "https://github.com/AtlasRB/skylanderLaravelProject",
             "livelink": "https://skylandercollectors.2024-connory.dev.io-academy.uk",
-            "largeDescription": "Built using Laravel with Laravel Breeze this project teaches multiple new skills that I had not attempted in previous projects. This project is an advanced version of my card collection project, users can create their own account and then track their own collectables."
+            "largeDescription": "Built with Laravel using Laravel Breeze this project teaches multiple new skills that I had not attempted in previous projects. This project is an advanced version of my card collection project, users can create their own account and then track their own collectables."
         }
     ]
 }
