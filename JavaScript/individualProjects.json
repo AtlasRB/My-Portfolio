@@ -13,7 +13,7 @@
             "img": "Images/individualCardCollection.PNG",
             "description": "A React frontend displaying gen one pokemon cards with multiple filter types.",
             "link": "https://github.com/AtlasRB/Card-Collections",
-            "livelink": "https://cardcollection.2024-connory.dev.io-academy.uk",
+            "livelink": "https://cardcollector.crwebdevelopment.co.uk",
             "largeDescription": "Built using a React frontend to fetch a database containing generation one pokemon along with additional information about each. This data is then displayed in a table format styled using Tailwind CSS."
         },
         {
@@ -21,7 +21,7 @@
             "img": "Images/individualCardCollectionAPI.PNG",
             "description": "The backend API for Card Collection project built the PHP Laravel framework.",
             "link": "https://github.com/AtlasRB/Card-Collections-API",
-            "livelink": "https://cardcollector.2024-connory.dev.io-academy.uk/api/card",
+            "livelink": "https://cardcollectorapi.crwebdevelopment.co.uk/api/card",
             "largeDescription": "This project shows use of multiple methods such as GET, POST, PUT and DELETE. Testing is also used in this project."
         },
         {
