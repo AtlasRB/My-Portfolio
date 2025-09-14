@@ -29,7 +29,7 @@
             "img": "Images/skylanderLaravel.PNG",
             "description": "A site built using the PHP Laravel framework, the site is used to track collected Skylander Spyros Adventure figures.",
             "link": "https://github.com/AtlasRB/skylanderLaravelProject",
-            "livelink": "https://skylandercollectors.2024-connory.dev.io-academy.uk",
+            "livelink": "https://skylandercollector.crwebdevelopment.co.uk",
             "largeDescription": "Built with Laravel using Laravel Breeze this project teaches multiple new skills that I had not attempted in previous projects. This project is an advanced version of my card collection project, users can create their own account and then track their own collectables."
         }
     ]
